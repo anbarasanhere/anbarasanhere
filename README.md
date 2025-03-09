@@ -1,7 +1,3 @@
-<div align="right">
-  <button id="darkModeToggle">Toggle Dark Mode</button>
-</div>
-
 <h1 align="center">Hi 👋, I'm Anbarasan</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
