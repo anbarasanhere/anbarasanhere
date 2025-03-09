@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdxMWxqY3NqMDJoZ3plazR6YTI2YWtlbDl0Zms3MzFqN2UxYzljNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y2siFL8PCUm5ucFBuS/giphy.gif" alt="Dynamic Data Science GIF" width="800" />
+  <img 
+src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnRyaGwxbHJqMTh5d2hmMXJ6bDVidjZybWNyanhtZXZ4ajltaGpwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GrRgIa839nAwRa2qKW/giphy.gif" alt="Dynamic Data Science GIF" width="800" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Anbarasan</h1>
@@ -20,10 +21,6 @@
   📫 How to reach me (mail): <strong>anbarasanayyavu@gmail.com</strong> 📧
   <br>
   📄 Kaggle: <a href="https://www.kaggle.com/anbarasan123">Kaggle Profile</a> 🏆
-</p>
-
-<p align="left">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anbarasan a" height="30" width="40" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
