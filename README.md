@@ -1,27 +1,33 @@
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdxMWxqY3NqMDJoZ3plazR6YTI2YWtlbDl0Zms3MzFqN2UxYzljNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y2siFL8PCUm5ucFBuS/giphy.gif" alt="Dynamic Data Science GIF" width="800" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Anbarasan</h1>
-<h3 align="center">A passionate Data Scientist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anbarasanhere&label=Profile%20views&color=0e75b6&style=flat" alt="anbarasanhere" /> </p>
+<h3>About Me:</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anbarasanhere" alt="anbarasanhere" /></a> </p>
-
-- 🔭 I’m currently working on **Data Analysis Projects**
-
-- 🌱 I’m currently learning **Machine Learning with python libraries**
-
-- 👨‍💻 All of my projects are available at [https://anbarasan5612.wixsite.com/works-of-anbarasan](https://anbarasan5612.wixsite.com/works-of-anbarasan)
-
-- 💬 Ask me about **MySQL, Python, PowerBI, Tableau, ML, Premier Pro, After Effects**
-
-- 📫 How to reach me **anbarasanayyavu@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anbarasan-a-4b1b56170/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anbarasan-a-4b1b56170/" height="30" width="40" /></a>
+  🔭 I’m currently working on <strong>Data Science Projects</strong>. 🚀
+  <br>
+  🌱 I’m currently learning <strong>Machine Learning with Python libraries</strong>. 📈
+  <br>
+  👨‍💻 All of my projects are available at <a href="https://github.com/anbarasanhere?tab=repositories">GitHub Repositories</a>. 📂
+  <br>
+  📝 Reach me through LinkedIn: <a href="https://www.linkedin.com/in/anbarasan-a-4b1b56170/">LinkedIn Profile</a>. 💼
+  <br>
+  💬 Ask me about <strong>MySQL, Python, PowerBI, Tableau, ML</strong>. 🤖
+  <br>
+  📫 How to reach me (mail): <strong>anbarasanayyavu@gmail.com</strong> 📧
+  <br>
+  📄 Kaggle: <a href="https://www.kaggle.com/anbarasan123">Kaggle Profile</a> 🏆
+</p>
+
+<p align="left">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anbarasan a" height="30" width="40" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">&nbsp;
+<p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="padding: 0 5px;"/> </a>&nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="padding: 0 5px;"/> </a>&nbsp;
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" style="padding: 0 5px;"/> </a>&nbsp;
@@ -38,8 +44,14 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" style="padding: 0 5px;"/> </a>&nbsp;
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anbarasanhere&show_icons=true&locale=en&layout=compact" alt="anbarasanhere" /></p>
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anbarasanhere&show_icons=true&locale=en&layout=compact" alt="anbarasanhere" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anbarasanhere&show_icons=true&locale=en" alt="anbarasanhere" /></p>
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=anbarasanhere&show_icons=true&locale=en" alt="anbarasanhere" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anbarasanhere&" alt="anbarasanhere" /></p>
+<p align="left">
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anbarasanhere&" alt="anbarasanhere" />
+</p>
